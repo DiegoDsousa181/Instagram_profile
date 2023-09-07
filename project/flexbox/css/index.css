@@ -1,0 +1,23 @@
+@import './header.css';
+@import './profile.css';
+@import './description.css';
+@import './buttoncontanier.css';
+@import './history.css';
+@import './grid-phots.css';
+  
+ :root {
+  --gray: #6b7280;
+  --black: #202020;
+  --semi-black: #20202084;
+  --white: #ffffff;
+  --font: system-ui;
+ }
+
+ body{
+    margin: 0 auto;
+    padding: 0;
+ }
+
+.main{
+    margin: 0 2.5rem;
+}

@@ -1,0 +1,21 @@
+.description {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.contanier-description {
+    width: 23%;
+}
+.contanier-description p{
+  margin: 3px 0;
+
+}
+.contanier-description p:nth-child(1){
+    font-weight: bold;
+
+}
+.contanier-description a{
+   text-decoration: none;
+
+}
